@@ -1,5 +1,6 @@
 # MachineLearning
-Notes on Machine Learning
+## Original notes on Machine Learning, all rights reserved.
+## NO REPRINT.
 
 0.1.BP神经网络的工作原理
 
